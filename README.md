@@ -244,7 +244,8 @@ AC clears the entire input.
 
 The Calculator Application successfully combines modern UI principles with advanced expression evaluation to deliver an accurate and user-friendly tool. It highlights the potential of Jetpack Compose in creating responsive Android applications and serves as a solid foundation for further expansion.
 
-![WhatsApp Image 2025-02-19 at 16 49 02_8bce6be2](https://github.com/user-attachments/assets/fa1164d7-1b4d-4dfe-8483-8b5ed6bc5574)
+![WhatsApp Image 2025-02-19 at 16 49 02_8bce6be2](https://github.com/user-attachments/assets/acea204d-062a-445b-a037-0e6f5072fb6b)
+
 
 ![image](https://github.com/user-attachments/assets/b769cf71-c519-4d2e-b18b-3018eda12b25)
 
