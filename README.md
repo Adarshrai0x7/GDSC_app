@@ -245,5 +245,3 @@ The Calculator Application successfully combines modern UI principles with advan
 
 ---
 
-Let me know if you'd like further refinements!
-
