@@ -224,6 +224,9 @@ AC clears the entire input.
 
 🟢 Future Improvements:
 
+
+
+
 1. Parentheses Validation: Add logic to handle mismatched or missing parentheses.
 
 
@@ -248,6 +251,8 @@ The Calculator Application successfully combines modern UI principles with advan
 
 
 ![image](https://github.com/user-attachments/assets/b769cf71-c519-4d2e-b18b-3018eda12b25)
+https://github.com/user-attachments/assets/807a2fb7-c7a6-460f-a011-c955092202fb
+
 
 ---
 LINK FOR PRESENTATION 
