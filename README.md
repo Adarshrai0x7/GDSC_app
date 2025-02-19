@@ -218,6 +218,8 @@ AC clears the entire input.
 
 2. Dynamic text updates without disrupting the user experience.
 
+3. I was not able to include working of power funtion it was showing some error which I tried to
+   resolve but I was unable to do that
 
 
 🟢 Future Improvements:
@@ -242,6 +244,8 @@ AC clears the entire input.
 
 The Calculator Application successfully combines modern UI principles with advanced expression evaluation to deliver an accurate and user-friendly tool. It highlights the potential of Jetpack Compose in creating responsive Android applications and serves as a solid foundation for further expansion.
 
+![WhatsApp Image 2025-02-19 at 16 49 02_10b27a66](https://github.com/user-attachments/assets/08fd44e0-dff0-45b9-b85a-9cea2d35a2b3)
+![image](https://github.com/user-attachments/assets/b769cf71-c519-4d2e-b18b-3018eda12b25)
 
 ---
 LINK FOR PRESENTATION 
